@@ -14,3 +14,4 @@ Wichtige Befehle:\
 `git clone "URL vom Repository" | Repository klonen`\
 `git pull | Repository auf aktuellem Stand beziehen`\
 `git status | Status des Repositories abfragen`\
+Bru
