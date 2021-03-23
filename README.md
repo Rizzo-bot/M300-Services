@@ -31,8 +31,14 @@ Visualstudiocode ist eine Software um verschiedene Codierungen zu schreiben. ver
 Folgend kommen wie angegeben die Konfigurationen für Visualstudiocode:
 
 ![Visualstudiocode1](https://github.com/Rizzo-bot/M300-Services/blob/main/visualstudiocode-1.PNG)
+
+Filesexclude:
+
 ![Visualstudiocode2](https://github.com/Rizzo-bot/M300-Services/blob/main/visualstudiocode-filesexclude.PNG)
-![Visualstudiocode3]
+
+installierte Erweiterungen:
+
+![Visualstudiocode3](https://github.com/Rizzo-bot/M300-Services/blob/main/visualstudiocode-installed.PNG)
 
 ### Meine Infrastruktur 
 So sieht meine Infrastruktur aus:
