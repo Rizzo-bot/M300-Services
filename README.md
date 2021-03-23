@@ -25,6 +25,15 @@ Nach Anleitung wurden die virtuellen Maschinen erstellt. Meine Virtualbox sieht 
 
 ![Virtualbox](https://github.com/Rizzo-bot/M300-Services/blob/main/Virtualbox-menu.PNG)
 
+### VisualstudioCode
+Visualstudiocode ist eine Software um verschiedene Codierungen zu schreiben. verschiedene Erweiterungen können ebenfalls heruntergeladen werden. Es ist auch bekannt als ein Quelltext-Editor. Es hat auch Funktionen wie Debugging, Autovervollständigung etc.
+
+Folgend kommen wie angegeben die Konfigurationen für Visualstudiocode:
+
+![Visualstudiocode1]
+![Visualstudiocode2]
+![Visualstudiocode3]
+
 ### Meine Infrastruktur 
 So sieht meine Infrastruktur aus:
 
