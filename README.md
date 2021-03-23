@@ -45,9 +45,9 @@ Mit Vagrant kann man Vm's schneller installieren und den langen Prozess überspr
 
 Wichtige Befehle:\
 `cd` choose Direcotry, wählt den Standort des Verzeichnisses aus.
-`mkdir` erstellt einen Ordner
-`vagrant init ubuntu/xenial64` erzeigt das VagrantFile in ausgewähltem Verzeichnis
-`vagrant up` VM erstellen und starten
+`mkdir` erstellt einen Ordner\
+`vagrant init ubuntu/xenial64` erzeigt das VagrantFile in ausgewähltem Verzeichnis\
+`vagrant up` VM erstellen und starten\
 
 Nachdem die Vagrant-VM gestartet wurde muss man sich per Git-Bash darauf anmelden mit folgendem Befehl: `vagrant ssh`.
 
