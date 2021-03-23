@@ -4,7 +4,7 @@
 Ich habe keine Ahnung was Vagrant ist, weder die verschiedenen Funktionen von GitHub, noch was IaC ist etc. Vorwissen bereits über SSH, Ubuntu, VSC.
 
 ### Neu erlerntes
-In dieser Dokumentation, werden jenste Begriffe, Prozesse beschrieben, wo von ich noch keine Ahnung hatte und interessant waren.
+In dieser Dokumentation, werden jenste Begriffe, Prozesse beschrieben, wo von ich noch keine Ahnung hatte und interessant waren. Ebenso wird dokumentiert, was ich in diesem Modul gemacht habe, welche auf das Raster LB01 basieren.
 
 ## 10 Toolumgebung aufsetzen
 ### GitHub und GitBash
@@ -39,6 +39,19 @@ Filesexclude:
 installierte Erweiterungen:
 
 ![Visualstudiocode3](https://github.com/Rizzo-bot/M300-Services/blob/main/visualstudiocode-installed.PNG)
+
+### Vagrant
+Mit Vagrant kann man Vm's schneller installieren und den langen Prozess überspringen.
+
+Wichtige Befehle:\
+`cd` choose Direcotry, wählt den Standort des Verzeichnisses aus.
+`mkdir` erstellt einen Ordner
+`vagrant init ubuntu/xenial64` erzeigt das VagrantFile in ausgewähltem Verzeichnis
+`vagrant up` VM erstellen und starten
+
+Nachdem die Vagrant-VM gestartet wurde muss man sich per Git-Bash darauf anmelden mit folgendem Befehl: `vagrant ssh`.
+
+![vagrant-ssh] 
 
 ### Meine Infrastruktur 
 So sieht meine Infrastruktur aus:
