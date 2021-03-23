@@ -20,3 +20,7 @@ Wichtige Befehle:\
 
 ### Virtualbox
 Virtualbox ist eine Software um seine virtuellen Maschinen zu verwalten und steuern.
+
+### Meine Infrastruktur 
+So sieht meine Infrastruktur aus:
+! (Infrastruktur.png)
