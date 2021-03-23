@@ -17,3 +17,6 @@ Wichtige Befehle:\
 `git add - A "Filename" | Datei dem Repository hinzufügen`\
 `git commit -m Kommentar (falls gewünscht) | Kommentar zu den Änderungen`\
 `git push | Änderungen übernehmen`\
+
+### Virtualbox
+Virtualbox ist eine Software um seine virtuellen Maschinen zu verwalten und steuern.
