@@ -23,4 +23,4 @@ Virtualbox ist eine Software um seine virtuellen Maschinen zu verwalten und steu
 
 ### Meine Infrastruktur 
 So sieht meine Infrastruktur aus:
-! (Infrastruktur.png)
+![Infrastruktur](Infrastruktur.png)
