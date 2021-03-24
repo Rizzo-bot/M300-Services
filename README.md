@@ -58,4 +58,9 @@ So sieht meine Infrastruktur aus:
 
 ![Infrastruktur](https://github.com/Rizzo-bot/M300-Services/blob/main/Infrastruktur.PNG)
 
+### Persönliche Lernentwicklung: Vergleich Vorwissen - Wissenszuwachs
 
+Im Vergleich zu jetzt habe ich vieles über Vagrant, Visual Studio Code und auch Virtualbox gelernt. Vorher konnte ich nur sagen was diese Programme sind, jedoch kann ich jetzt auch mit meinem neu erlerntem. Ich konnte eine VM mithilfe mit einem Vagrant-File erzeugen und so weiter. Jedoch fand ich es wirklich kompliziert von Visual Studio Code aus mit Hilfe von Markdown in die Dokumentation zu schreiben. Der erste Teil vom Modul war für mich eher anstrengend und auch recht frustrierend.
+
+### Persönliche Lernentwicklung: Reflexion
+Im erstem Teil des Moduls war es ziemlich ansztrengend für mich ich habe meistens Probleme mit dem Verstehen der Mechanismen, jedoch konnte ich dannach mithilfe verschiedener Leute einen besseren Einblick bekommen. Es gab Tage an dem ich gut für das Modul arbeiten konnte und einige Tage an denen ich schlechter daran arbeiten konnte. Leider konnte ich nicht sonderlich viel für die LB01 machen.
