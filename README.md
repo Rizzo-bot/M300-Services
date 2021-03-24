@@ -65,7 +65,19 @@ In diesem Schritt wird eine lokale Firewall installiert und ebenfalls den Port 2
 
 ### Reverse Proxy eingerichtet
 
+Mit den folgenden Schritten habe ich den Reverse-Proxy aktiviert:
+
+![Vagrant-rev1](https://github.com/Rizzo-bot/M300-Services/blob/main/vagrant-rev1.PNG)
+
+![Vagrant-rev2](https://github.com/Rizzo-bot/M300-Services/blob/main/vagrant-rev2.PNG)
+
+![Vagrant-rev3](https://github.com/Rizzo-bot/M300-Services/blob/main/vagrant-rev3.PNG)
+
 ### Benutzer und Rechtevergabe ist eingerichtet
+
+Hier habe ich jeweils zwei Users "Admin" und "Test" erstellt mit den entsprechenden Berechtigungen.
+
+![Vagrant-rev3](https://github.com/Rizzo-bot/M300-Services/blob/main/vagrant-users.PNG)
 
 ### Persönliche Lernentwicklung: Vergleich Vorwissen - Wissenszuwachs
 
