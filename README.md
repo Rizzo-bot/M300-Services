@@ -48,6 +48,19 @@ Wichtige Befehle:\
 `mkdir` erstellt einen Ordner\
 `vagrant init ubuntu/xenial64` erzeugt das VagrantFile in ausgewähltem Verzeichnis\
 `vagrant up` VM erstellen und starten\
+`vagrant box` Commands to manage system boxes\
+`vagrant destroy` Destroy the environment, deleting the created virtual machines\
+`vagrant halt` Halt the running VMs in the environment\
+`vagrant help [TASK]` Describe available tasks or one specific task\
+`vagrant init [box_name]` Initializes the current folder for Vagrant usage\
+`vagrant package` Package a Vagrant environment for distribution\
+`vagrant provision` Rerun the provisioning scripts on a running VM\
+`vagrant reload` Reload the environment, halting it then restarting it.\
+`vagrant resume` Resume a suspended Vagrant environment.\
+`vagrant ssh` SSH into the currently running Vagrant environment.\
+`vagrant ssh_config` outputs ssh config valid syntax for connecting to this environment via ssh\
+`vagrant suspend` Suspend a running Vagrant environment.\
+`vagrant version` Prints the Vagrant version information\
 
 Nachdem die Vagrant-VM gestartet wurde muss man sich per Git-Bash darauf anmelden mit folgendem Befehl: `vagrant ssh`.
 
