@@ -61,7 +61,7 @@ So sieht meine Infrastruktur aus:
 ### Firewall eingerichtet insklusive Rules
 In diesem Schritt wird eine lokale Firewall installiert und ebenfalls den Port 22. So kann man eine SSH-Verbindung herstellen.
 
-![Vagrant-firewall](https://github.com/Rizzo-bot/M300-Services/blob/main/vagrant-ssh.PNG)
+![Vagrant-firewall](https://github.com/Rizzo-bot/M300-Services/blob/main/vagrant-rule1.PNG)
 
 ### Reverse Proxy eingerichtet
 
