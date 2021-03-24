@@ -58,6 +58,15 @@ So sieht meine Infrastruktur aus:
 
 ![Infrastruktur](https://github.com/Rizzo-bot/M300-Services/blob/main/Infrastruktur.PNG)
 
+### Firewall eingerichtet insklusive Rules
+In diesem Schritt wird eine lokale Firewall installiert und ebenfalls den Port 22. So kann man eine SSH-Verbindung herstellen.
+
+![Vagrant-firewall](https://github.com/Rizzo-bot/M300-Services/blob/main/vagrant-ssh.PNG)
+
+### Reverse Proxy eingerichtet
+
+### Benutzer und Rechtevergabe ist eingerichtet
+
 ### Persönliche Lernentwicklung: Vergleich Vorwissen - Wissenszuwachs
 
 Im Vergleich zu jetzt habe ich vieles über Vagrant, Visual Studio Code und auch Virtualbox gelernt. Vorher konnte ich nur sagen was diese Programme sind, jedoch kann ich jetzt auch mit meinem neu erlerntem. Ich konnte eine VM mithilfe mit einem Vagrant-File erzeugen und so weiter. Jedoch fand ich es wirklich kompliziert von Visual Studio Code aus mit Hilfe von Markdown in die Dokumentation zu schreiben. Der erste Teil vom Modul war für mich eher anstrengend und auch recht frustrierend.
